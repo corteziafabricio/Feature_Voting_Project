@@ -1,0 +1,13 @@
+Welcome! Below are the contents for the file /feature-voting-system/feature-voting-system/prompts.txt:
+
+1. Write each prompt I send to you into a file prompts.txt, so I can audit the work.
+2. Generate a basic Express backend for a feature voting system with a database connection.
+3. Create a Feature model with properties: id, title, description, and voteCount.
+4. Create a Vote model with properties: id, featureId, and userId.
+5. Implement a FeatureController with methods to post new features and retrieve the list of features.
+6. Implement a VoteController with methods to upvote a feature.
+7. Set up routes for features and votes in the backend.
+8. Create a simple frontend using React to display features and allow users to submit new features and upvote.
+9. Generate a mobile app using React Native to display features and allow users to submit new features and upvote.
+10. Write SQL schema for the database to create tables for features and votes.
+11. Document the project setup and usage in a README.md file.
